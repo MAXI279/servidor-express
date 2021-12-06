@@ -1,0 +1,21 @@
+[{
+    "title": "Item",
+    "price": 1234,
+    "thumbnail": "http://url",
+    "id": 1
+}, {
+    "title": "Item",
+    "price": 1234,
+    "thumbnail": "http://url",
+    "id": 2
+}, {
+    "title": "Item",
+    "price": 1234,
+    "thumbnail": "http://url.test",
+    "id": 3
+}, {
+    "title": "Item",
+    "price": 1234,
+    "thumbnail": "http://url.test",
+    "id": 4
+}]
